@@ -1,3 +1,4 @@
+HW1.3
 n=0
 while n<100:
         n=n+1
@@ -7,5 +8,4 @@ while n<100:
                 print(n, "процента")
         else:
                 print(n, "процентов")
-
 
